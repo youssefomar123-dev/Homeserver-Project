@@ -182,3 +182,5 @@
 8. Setting up the main software (server side)
 
     e.g. NextCloud
+
+> To be continued
