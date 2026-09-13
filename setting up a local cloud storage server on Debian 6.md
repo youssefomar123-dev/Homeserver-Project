@@ -183,4 +183,6 @@
 
 e.g. NextCloud
 
+I'm forced to pause because of hardware issues
+
 > To be continued
